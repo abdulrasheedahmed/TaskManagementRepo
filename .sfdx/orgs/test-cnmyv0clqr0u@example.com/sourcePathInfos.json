@@ -32,14 +32,14 @@
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554063481003,
             "changeTime": 1554063481003,
-            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -90,105 +90,105 @@
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2050,
             "modifiedTime": 1554063480923,
             "changeTime": 1554063480923,
-            "contentHash": "e4b65f09dfebef9eaf39d5b579addb224a985a7d"
+            "contentHash": "e4b65f09dfebef9eaf39d5b579addb224a985a7d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields\\DueDate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields\\DueDate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1554063480927,
             "changeTime": 1554063480927,
-            "contentHash": "bd2cf211161cca777e9c8df1428f7e46e982d816"
+            "contentHash": "bd2cf211161cca777e9c8df1428f7e46e982d816",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1473,
             "modifiedTime": 1554063480929,
             "changeTime": 1554063480929,
-            "contentHash": "715c25afab8cde16e046cbd6294c59e70f5dfd98"
+            "contentHash": "715c25afab8cde16e046cbd6294c59e70f5dfd98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1554063480934,
             "changeTime": 1554063480934,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2220,
             "modifiedTime": 1554063480951,
             "changeTime": 1554063480951,
-            "contentHash": "c9a2f30932aa92c8518e3442ad9a6a47aba57993"
+            "contentHash": "c9a2f30932aa92c8518e3442ad9a6a47aba57993",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\flexipages\\Task_Management_System_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\flexipages\\Task_Management_System_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 517,
             "modifiedTime": 1554063480962,
             "changeTime": 1554063480962,
-            "contentHash": "718b64f5fa29bbe3c60f667e043697154cdc6538"
+            "contentHash": "718b64f5fa29bbe3c60f667e043697154cdc6538",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\tabs\\Task__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\tabs\\Task__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1554063480973,
             "changeTime": 1554063480973,
-            "contentHash": "5796e83349bbab442be38c30b94cbc5f9e3e1358"
+            "contentHash": "5796e83349bbab442be38c30b94cbc5f9e3e1358",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\applications\\Task_Management_System.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\applications\\Task_Management_System.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 625,
             "modifiedTime": 1554063480992,
             "changeTime": 1554063480992,
-            "contentHash": "28a263693cc663989ea114a585aa31b53f8d486d"
+            "contentHash": "28a263693cc663989ea114a585aa31b53f8d486d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -198,10 +198,10 @@
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5149,
-            "modifiedTime": 1554063481006,
-            "changeTime": 1554063481006,
-            "contentHash": "dcf7d1ae491e09e6e9cdece357e916a1618fff41"
+            "size": 5863,
+            "modifiedTime": 1554067503638,
+            "changeTime": 1554067503638,
+            "contentHash": "1d07f5c1c2d16f591626f9b407039bdb0ddca58f"
         }
     ],
     [
@@ -211,10 +211,10 @@
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5149,
-            "modifiedTime": 1554063481021,
-            "changeTime": 1554063481021,
-            "contentHash": "dcf7d1ae491e09e6e9cdece357e916a1618fff41"
+            "size": 5863,
+            "modifiedTime": 1554067503654,
+            "changeTime": 1554067503654,
+            "contentHash": "1d07f5c1c2d16f591626f9b407039bdb0ddca58f"
         }
     ],
     [
@@ -224,10 +224,10 @@
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 19621,
-            "modifiedTime": 1554063481059,
-            "changeTime": 1554063481059,
-            "contentHash": "856bbbea3b118555c046100977bdf04c697fe7eb"
+            "size": 20667,
+            "modifiedTime": 1554067503708,
+            "changeTime": 1554067503708,
+            "contentHash": "7570e830f841491be4c512319618a043b70b1516"
         }
     ],
     [
@@ -237,23 +237,23 @@
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5487,
-            "modifiedTime": 1554063481074,
-            "changeTime": 1554063481074,
-            "contentHash": "ab644ead0e27662f82eeb6455c70a662fefc91ca"
+            "size": 6201,
+            "modifiedTime": 1554067503722,
+            "changeTime": 1554067503722,
+            "contentHash": "f97589715acb8a123ab70e02adde7776bceba6af"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554063480930,
             "changeTime": 1554063480930,
-            "contentHash": "dc4ad857fb64d6065b4f4712091e7870716efe6f"
+            "contentHash": "dc4ad857fb64d6065b4f4712091e7870716efe6f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -264,35 +264,35 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554063480917,
-            "changeTime": 1554063480917,
-            "contentHash": "75e1fa410d274037619b661611b2257820dc070b"
+            "modifiedTime": 1554067503560,
+            "changeTime": 1554067503560,
+            "contentHash": "c3213a7776ca642b96c0dd79aa69fea974985eda"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554063480928,
             "changeTime": 1554063480928,
-            "contentHash": "013740a7d61539288ff29bb7ada69af061019829"
+            "contentHash": "013740a7d61539288ff29bb7ada69af061019829",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Task__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554063480932,
             "changeTime": 1554063480932,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -303,9 +303,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554063480950,
-            "changeTime": 1554063480950,
-            "contentHash": "b6dc416472634ea8be3a0d43026b8fae733a7343"
+            "modifiedTime": 1554067503591,
+            "changeTime": 1554067503591,
+            "contentHash": "0d3bee0f13c8917eeb057767dedb20e0c10a3e70"
         }
     ],
     [
@@ -316,9 +316,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554063480961,
-            "changeTime": 1554063480961,
-            "contentHash": "d1a92c8298811e270aef20723d944315fb7c6f6f"
+            "modifiedTime": 1554067503607,
+            "changeTime": 1554067503607,
+            "contentHash": "38f98f63ee2ebcdc1dbde1740e8ae5d498f863a9"
         }
     ],
     [
@@ -329,9 +329,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554063480972,
-            "changeTime": 1554063480972,
-            "contentHash": "62162a36829987d249123cf6c27552cba461fd39"
+            "modifiedTime": 1554067503607,
+            "changeTime": 1554067503607,
+            "contentHash": "305dfe6df8229d9f384fc4119e45a2a36305dec3"
         }
     ],
     [
@@ -342,22 +342,165 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554063480991,
-            "changeTime": 1554063480991,
-            "contentHash": "c31f599b0d8a5495354a7fbbd9f7e6b9b23c0f4b"
+            "modifiedTime": 1554067503623,
+            "changeTime": 1554067503623,
+            "contentHash": "2605bf8e6ba5693ce9f3ba1fb5619790a61c2a4d"
         }
     ],
     [
         "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554063481072,
             "changeTime": 1554063481072,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\Project__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\Project__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2059,
+            "modifiedTime": 1554067503560,
+            "changeTime": 1554067503560,
+            "contentHash": "53952102d420194357c69fad0071276cb0349e03"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields\\DueDate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields\\DueDate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1554067503560,
+            "changeTime": 1554067503560,
+            "contentHash": "bd2cf211161cca777e9c8df1428f7e46e982d816"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 969,
+            "modifiedTime": 1554067503560,
+            "changeTime": 1554067503560,
+            "contentHash": "91dada5480709aadcf63431463ccbbbb6dc5d2f4"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1554067503576,
+            "changeTime": 1554067503576,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\layouts\\Project__c-Project Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\layouts\\Project__c-Project Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2220,
+            "modifiedTime": 1554067503591,
+            "changeTime": 1554067503591,
+            "contentHash": "b015b8dfab2d191c770dd0058391a4a09b4312aa"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\flexipages\\Project_System_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\flexipages\\Project_System_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1554067503607,
+            "changeTime": 1554067503607,
+            "contentHash": "4fa9e62a9bdd1ba44a512a86714c21f913d32dd6"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\tabs\\Project__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\tabs\\Project__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1554067503607,
+            "changeTime": 1554067503607,
+            "contentHash": "8d5ecb4afd265179509ffa5b60cff2d56c2b133d"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\applications\\Project_System.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\applications\\Project_System.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 612,
+            "modifiedTime": 1554067503623,
+            "changeTime": 1554067503623,
+            "contentHash": "d31cfef9c45a580a9dcad4910a72c428026a1e13"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554067503576,
+            "changeTime": 1554067503576,
+            "contentHash": "868b1984c0cdb28d99dae499baa3c5d3567957bc"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554067503560,
+            "changeTime": 1554067503560,
+            "contentHash": "013740a7d61539288ff29bb7ada69af061019829"
+        }
+    ],
+    [
+        "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ahmedr\\SaleforceDX\\TaskManagement\\force-app\\main\\default\\objects\\Project__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554067503576,
+            "changeTime": 1554067503576,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
         }
     ]
 ]
